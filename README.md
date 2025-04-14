@@ -1,6 +1,6 @@
 <p align="center">
     <br />
-        <img src="https://github.com/swiifu/dt403b/blob/main/Logo403B.png" width="200" alt=""/>
+        <img src="https://github.com/swiifu/dt403b/blob/main/Projectmanagementportfolio.png" width="200" alt=""/>
     <br />
 </p>
 <p align="center"><strong style="font-size: 20px;">DT403B Microsoft Licensing Data Dashboard</strong></p>
